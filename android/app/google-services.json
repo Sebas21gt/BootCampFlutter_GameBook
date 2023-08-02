@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "303150588473",
+    "project_id": "gamebook-8fe52",
+    "storage_bucket": "gamebook-8fe52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303150588473:android:fd7680b41c22a82aa463e8",
+        "android_client_info": {
+          "package_name": "com.example.game_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303150588473-k5h9rckgevjlincv6op39ucesu4u0smu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game_book",
+            "certificate_hash": "05873dbaa6243e0d515ad94b69777c8204151af3"
+          }
+        },
+        {
+          "client_id": "303150588473-earfh5rikravdncbsmp3cco94uf7tv4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3L0DNLvqHO9X15zZ9u3i7PnBwa1FfAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303150588473-earfh5rikravdncbsmp3cco94uf7tv4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303150588473-gitru04ght0e3jklbgq78gp64sgaetla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameBook.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
